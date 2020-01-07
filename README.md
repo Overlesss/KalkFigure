@@ -14,9 +14,9 @@ Tra queste sono presenti:
 
 Il codice è disponibile sia in C++ con la libreria Qt, sia in Java.
 
-Compilatore: g++ 4.9.2
-QT: 5.5.1
-IDE: Qt Creator 3.5.1
-Qmake: 3.0
+Compilatore: g++ 4.9.2  
+QT: 5.5.1  
+IDE: Qt Creator 3.5.1  
+Qmake: 3.0  
 
 Il progetto è stato realizzato in collaborazione con Ilaria Peron.
